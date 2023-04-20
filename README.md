@@ -1,2 +1,2 @@
 # JavaProject-ITCenterManagementSystem
-My Java Project
+This is my academic Java project on "IT Center Management System"
